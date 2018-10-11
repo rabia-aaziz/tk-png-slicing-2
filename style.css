@@ -1,0 +1,169 @@
+body
+{
+	display: inline-block;
+	margin: 0px;
+    
+}
+.container
+{
+	height: 600px;
+	width: 350px;
+	border: 2px solid grey; 
+	padding: 0PX;
+	display: inline-block;
+	margin: 50px;
+	 -webkit-box-shadow: -2px -1px 35px -6px rgba(0,0,0,0.75);
+     -moz-box-shadow: -2px -1px 35px -6px rgba(0,0,0,0.75);
+     box-shadow: -2px -1px 35px -6px rgba(0,0,0,0.75);
+
+}
+
+.head
+{
+	height: 70px;
+    text-align: center;
+    padding: 5px;
+    font-family: arial;
+	
+    background: linear-gradient(to right,#00c695, #008bdd);
+}
+
+h2
+{
+	color: white;
+	margin: 0PX;
+	padding: 15PX;
+}
+
+h3
+{
+	color: #066cd4;
+	margin: 0PX;
+	padding: 20PX;
+	
+	font-family: arial;
+
+}
+
+
+h4
+{
+	color: #8c95ad;
+	margin-top: -35PX;
+	
+	padding: 20PX;
+
+}
+
+section
+{
+  display: inline-block;
+  background-color: #ddecf6;
+  height: 20px;
+  width: cover;
+  padding: 5px;
+  margin-top: -45PX;
+  position: relative;
+  top: -60px;
+  left: 17px;
+  color: #5ea0d5;
+}
+
+hr
+{
+	text-align: center;
+	width: 310px;
+	position: relative;
+    top: -60px;
+    right: 10px;
+}
+
+.ab
+{
+	color: #066cd4;
+	margin: 0PX;
+	padding: 10PX;
+	font-weight: bold;
+	position: relative;
+    top: -65px;
+    left: 5px;
+    font-family: arial;
+}
+
+.ab1
+{
+	color: #8c95ad;
+	margin-top: -35PX;
+	font-weight: bold;
+	padding: 0PX;
+	margin: 0PX;
+	position: relative;
+    top: -70px;
+    left: 15px;
+}
+
+.ab11
+{
+	color: #8c95ad;
+	margin-top: -35PX;
+	font-weight: bold;
+	padding: 0PX;
+	margin: 0PX;
+	position: relative;
+    top: -98px;
+    left: 15px;
+}
+
+.sec2
+{
+	  display: inline-block;
+  background-color: #ddecf6;
+  height: 20px;
+  width: cover;
+  padding: 5px;
+  margin-top: -45PX;
+  position: relative;
+  top: -85px;
+  left: 17px;
+  color: #5ea0d5;
+}
+
+i
+{
+	height: 40px;
+	widows: 40px;
+}
+
+
+.sec3
+{
+	  display: inline-block;
+  background-color: #ddecf6;
+  height: 20px;
+  width: cover;
+  padding: 5px;
+  
+  position: relative;
+  top: -95px;
+  left: 17px;
+  color: #5ea0d5;
+}
+
+.cross
+{
+	margin-left:100px;
+	color:grey;
+	display:none;
+}
+span:hover
+{
+	cursor: pointer;
+	display:unset;
+}
+.cross2
+{
+	margin-left:170px;
+	margin-top:-50px;
+	color:grey;
+
+}
